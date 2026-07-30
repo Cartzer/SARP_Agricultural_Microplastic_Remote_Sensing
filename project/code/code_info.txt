@@ -1,0 +1,6 @@
+The following files were used to process the spectra obtained from a Spectra Vista Corporation HR-1024i spectroradiometer.
+01_preprocessing.ipynb was used to trim the .sig files from the spectroradiometer and add them all to a DataFrame. The average spectra of all sample types was also obtained.
+02_normalization_absorption-depth.ipynb was used to find the absorption depth around 2100-2250 nm for the average spectra of all soil types, normalize the spectra, and then calculate the absorption depth again
+03_downloading_normalizied_spec.ipynb was used to download the normalized spectra as .txt files so that they can be used in ENVI as a spectral library
+04_creatingcoolfigures.ipynb was used to create lots of figures! Plotting the spectra, visualizing the difference between absorption depths, etc.
+05_wavelengths_for_AVIRIS5.ipynb was used to obtain a .txt for the wavelengths of the AVIRIS-5 instrument to use in ENVI.
