@@ -1,0 +1,6 @@
+The following files are the .csvs obtained from the code used in the project 
+The raw code files are numerous & thus have not been uploaded to GitHub.
+Average_Spectra_fixed.csv is the average spectra of each soil type with the second spectra tear fixed.
+avg_absorptions.csv is the Wavelength (nm) of the absorption feature, the absorption amplitude, the	absorption band depth, the folder name, and the percent change from the plastic-free control. All are from the average spectra
+normalized_avg_absorptions.csv is the Wavelength (nm) of the absorption feature, the absorption amplitude, the	absorption band depth, the folder name, and the percent change from the plastic-free control. All are from the normalized spectra
+normalized_specs.csv is the normalized spectra of each of the soil types
